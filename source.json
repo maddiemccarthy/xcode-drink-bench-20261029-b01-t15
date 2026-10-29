@@ -1,0 +1,39 @@
+{
+  "name": "Sunset Hour 15",
+  "subtitle": "Three offline cocktail classics.",
+  "description": "The Sunset Hour 15 demo for AltStore Classic.",
+  "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t15/main/icon.png",
+  "website": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t15",
+  "tintColor": "#DE4F3D",
+  "featuredApps": [
+    "io.altstore.drinkbench.b01.t15.r0d83dc28a4"
+  ],
+  "apps": [
+    {
+      "name": "Sunset Hour 15",
+      "bundleIdentifier": "io.altstore.drinkbench.b01.t15.r0d83dc28a4",
+      "developerName": "maddiemccarthy",
+      "subtitle": "Three classics. One golden hour.",
+      "localizedDescription": "Offline recipes for Aperol Spritz, Tequila Sunrise, and Sea Breeze, with ingredient quantities, numbered steps, and a Surprise Me button.",
+      "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t15/main/icon.png",
+      "tintColor": "#DE4F3D",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-29T23:23:57.150982+00:00",
+          "size": 85137,
+          "downloadURL": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t15/releases/download/v1.0-build1/Sunset-Hour-15-1.0-1.ipa",
+          "localizedDescription": "Initial demo release with three offline cocktail recipes.",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [],
+  "nsfw": false
+}
